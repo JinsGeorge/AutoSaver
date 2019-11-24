@@ -1,0 +1,13 @@
+C:\Users\KON3644\source\repos\AutoSaver\bin\Release\AutoSaver.exe.config
+C:\Users\KON3644\source\repos\AutoSaver\bin\Release\AutoSaver.exe
+C:\Users\KON3644\source\repos\AutoSaver\bin\Release\AutoSaver.pdb
+C:\Users\KON3644\source\repos\AutoSaver\obj\Release\AutoSaver.Form1.resources
+C:\Users\KON3644\source\repos\AutoSaver\obj\Release\AutoSaver.Properties.Resources.resources
+C:\Users\KON3644\source\repos\AutoSaver\obj\Release\AutoSaver.csproj.GenerateResource.cache
+C:\Users\KON3644\source\repos\AutoSaver\obj\Release\AutoSaver.exe
+C:\Users\KON3644\source\repos\AutoSaver\obj\Release\AutoSaver.pdb
+C:\Users\KON3644\source\repos\AutoSaver\bin\Release\AutoSaver.exe.manifest
+C:\Users\KON3644\source\repos\AutoSaver\bin\Release\AutoSaver.application
+C:\Users\KON3644\source\repos\AutoSaver\obj\Release\AutoSaver.csprojAssemblyReference.cache
+C:\Users\KON3644\source\repos\AutoSaver\obj\Release\AutoSaver.exe.manifest
+C:\Users\KON3644\source\repos\AutoSaver\obj\Release\AutoSaver.application

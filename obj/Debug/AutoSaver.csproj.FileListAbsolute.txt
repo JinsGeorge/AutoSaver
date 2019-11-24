@@ -1,0 +1,9 @@
+C:\Users\KON3644\source\repos\AutoSaver\bin\Debug\AutoSaver.exe.config
+C:\Users\KON3644\source\repos\AutoSaver\bin\Debug\AutoSaver.exe
+C:\Users\KON3644\source\repos\AutoSaver\bin\Debug\AutoSaver.pdb
+C:\Users\KON3644\source\repos\AutoSaver\obj\Debug\AutoSaver.csprojAssemblyReference.cache
+C:\Users\KON3644\source\repos\AutoSaver\obj\Debug\AutoSaver.Form1.resources
+C:\Users\KON3644\source\repos\AutoSaver\obj\Debug\AutoSaver.Properties.Resources.resources
+C:\Users\KON3644\source\repos\AutoSaver\obj\Debug\AutoSaver.csproj.GenerateResource.cache
+C:\Users\KON3644\source\repos\AutoSaver\obj\Debug\AutoSaver.exe
+C:\Users\KON3644\source\repos\AutoSaver\obj\Debug\AutoSaver.pdb
